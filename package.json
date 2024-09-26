@@ -1,0 +1,19 @@
+{
+  "name": "ton-airdrop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ton/ton": "^15.0.0",
+    "dotenv": "^16.4.5",
+    "tonweb": "^0.0.66",
+    "tonweb-mnemonic": "^1.0.1"
+  }
+}
