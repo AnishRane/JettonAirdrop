@@ -1,15 +1,13 @@
 ## JETTON AIRDROP
 
-# My Node.js Project
-
-This is a simple Node.js project using Express.js.
+This is a script to airdrop jettons or tons to the receipients in batches
 
 ## Setup
 
 1. Clone the repository:
 
     ```bash
-      git clone https://github.com/yourusername/my-node-project.git 
+      git clone https://github.com/AnishRane/JettonAirdrop
     ```
 
 2. Install Dependencies
